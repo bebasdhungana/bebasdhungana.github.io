@@ -1,4 +1,28 @@
 ## Bebas Dhungana
+<div
+  class='LI-profile-badge'
+  data-version='v1'
+  data-size='medium'
+  data-locale='en_US'
+  data-type='horizontal'
+  data-theme='dark'
+  data-vanity='manavoza7'
+>
+  <a
+    class='LI-simple-link'
+    href='https://in.linkedin.com/in/manavoza7?trk=profile-badge'
+  >
+    Manav Oza
+  </a>
+</div>
+
+ <script
+  type='text/javascript'
+  src='https://platform.linkedin.com/badges/js/profile.js'
+  async
+  defer
+></script>
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="bebasdhungana" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/bebasdhungana?trk=profile-badge">Bebas Dhungana</a></div>
               
 You can use the [editor on GitHub](https://github.com/bebasdhungana/bebasdhungana.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
